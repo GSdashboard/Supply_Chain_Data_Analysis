@@ -3,7 +3,7 @@ In this project, I employed Excel to conduct in-depth analysis of supply chain d
 
 Skill Focus: Utilized advanced Excel functions and created a dynamic dashboard in Excel.
 
-For PDF version, check files uploaded in this repository.
+For Dashboard, check files uploaded in this repository.
 
 Here is the glimpse of the Excel Dashboard:
 
